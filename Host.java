@@ -111,7 +111,7 @@ public class Host {
 					if (newMessage.equals("\\listall")) {
 						listAllResponse.println("ALL USERS :\n");
 						for (ClientReader client : clients) {
-							listAllResponse.println(client.name + " " + client.getSocket().toString());
+							listAllResponse.println(client.name);
 						}
 						listAllResponse.println(myName + " " + clientReader.toString());
 						listAllResponse.flush();

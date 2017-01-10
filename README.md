@@ -1,3 +1,6 @@
-Just a really simple decentralized chat made with basic low-level sockets in Java. Very similar to the one in *Head First Java*, except through the command line instead of through a GUI, and with added features (shadowbanning, kicking, nicknames, etc.). About as hideous as the Pokecomparator code wise, but slightly less. Shows improvement, but one important lesson learned - if you don't plan or actively try to make your code look good, your code might work, but it'll look like a dyslexic monkey defecated on the keyboard repeatedly until something compiled correctly. 
+Just a really simple decentralized chat made with basic low-level sockets in Java. Very similar to the one in *Head First Java*, except through the command line instead of through a GUI, and with added features (shadowbanning, kicking, nicknames, etc.).
 
-Just, uh, run compile and run the Maim class. I'm really just dying to throw anything on my GitHub now. I'm sure in the future I'll have *real* repos with licenses and the whole 9 yards. 
+"java Maim" to run the program. 
+
+--
+This was a homework project from when I was 16 that stopped working for some reason. I felt the need to update it to make it work. Code's really bad, though. 
